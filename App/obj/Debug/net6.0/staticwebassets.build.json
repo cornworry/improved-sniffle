@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RSekC4sVu9/y7GM3bU+M+GSOMQcBfUvrr0yndzKiIvo=",
+  "Source": "DotNet.Docker.DiceApi",
+  "BasePath": "_content/DotNet.Docker.DiceApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
